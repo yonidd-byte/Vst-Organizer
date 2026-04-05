@@ -1,4 +1,4 @@
 {
   "version": "81.3.0",
-  "url": "https://github.com/your-username/your-repo/releases/download/v81.3.0/InoyPro.exe"
+  "url": "https://your-server.com/path/to/the/new/InoyPro.exe"
 }
