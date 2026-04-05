@@ -1,4 +1,4 @@
 {
-  "version": "81.5.0",
+  "version": "81.5.1",
   "url": "https://github.com/yonidd-byte/Vst-Organizer/releases/latest/download/InoyPro.exe"
 }
