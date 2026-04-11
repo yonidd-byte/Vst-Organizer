@@ -1,0 +1,12 @@
+{
+  "Dynamics": {
+    "Limiters & Clippers": ["New Fire Clipper", "Knock V2"],
+    "FET Compressors": ["UADx 1176 Rev F"]
+  },
+  "EQ": {
+    "Dynamic & Smart EQ": ["Ozone 13 Clarity", "Soothe 3"]
+  },
+  "Distortion": {
+    "Saturation & Tape": ["Cymatics Diablo V2"]
+  }
+}
